@@ -3,3 +3,6 @@ Computer Engineer
 Santa Clara University 2021 - Senior
 Cadet in the SCU ROTC program
 Enjoys cooking, fitness, and music.
+
+Courses:
+COEN 140, COEN 174, MILS 141, COEN 194, COEN 140L, COEN 174L, MILS 141L
